@@ -1,4 +1,3 @@
-// Somatopoulos Stylianos - 321/2021061
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
