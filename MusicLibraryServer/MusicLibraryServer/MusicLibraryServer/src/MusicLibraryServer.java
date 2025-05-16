@@ -1,4 +1,3 @@
-//Somatopoulos Stylianos - 321/2021061
 import java.io.*;
 import java.net.*;
 import java.util.List;
